@@ -1,2 +1,2 @@
 # FsLogix Management
-Simple Powershell scripts to management FSLogix
+Simple Powershell scripts to manage FSLogix
